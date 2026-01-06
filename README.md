@@ -1,2 +1,2 @@
 # proyectos_tripleten
-Sprints Boothcamp
+Sprints Bootcamp
